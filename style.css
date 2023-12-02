@@ -1,0 +1,55 @@
+@font-face {
+    font-family: ClassyVogue;
+    src: url("/Classyvogueregular.ttf");
+
+}
+
+
+* {
+    color: blueviolet;
+
+    background-color: beige;
+
+    font-family: 'Roboto', sans-serif; Verdana, Geneva, Tahoma, sans-serif;
+
+    font-size: 12pt;
+    font-weight: 400;
+
+    list-style: none;
+
+    text-decoration: none;
+
+    text-shadow: none;
+
+    border: solid 2px beige;
+
+    outline: none;
+
+    margin: 0px;
+    padding: 0px;
+
+box-sizing: border-box;
+
+
+}
+
+.header .nav .list{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16pt;
+    
+}
+
+
+.header .nav .div{
+    display: flex;
+    justify-content: center;
+    gap: 16pt;
+
+}
+.header .nav{
+    display: flex;
+    justify-content: space-between;
+}
