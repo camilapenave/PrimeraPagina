@@ -24,4 +24,26 @@
 box-sizing: border-box;
 }
 
+.header .nav .div .buttonCerrarSesion{
+    border: 1px solid #630073;
+    padding: 10px;
+    background-color: #630073;
+    color: #efefef;
+    text-decoration: none;
+    text-transform: initial;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    border-radius: 30px
+}
+
+.header .nav .div .buttonEliminarCuenta{
+    border: 1px solid #630073;
+    padding: 10px;
+    color: #efefef;
+    text-decoration: none;
+    text-transform: initial;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    border-radius: 30px
+}
 
