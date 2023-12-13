@@ -1,0 +1,27 @@
+* {
+    color: #efefef;
+
+    background-color: #1E1E1E;
+
+    font-family: 'Roboto', sans-serif;
+
+    font-size: 12pt;
+    font-weight: 400;
+
+    list-style: none;
+
+    text-decoration: none;
+
+    text-shadow: none;
+
+    border: none;
+
+    outline: none;
+
+    margin: 0px;
+    padding: 5px;
+
+box-sizing: border-box;
+}
+
+
